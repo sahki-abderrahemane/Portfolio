@@ -73,7 +73,7 @@ export default function DevDescription() {
         <div className='bg-gradient-to-r from-gray-900/50 to-purple-900/20 rounded-2xl p-8 border border-purple-800/20 backdrop-blur-sm'>
           <h1 className='text-white text-3xl font-bold mb-6 max-lg:text-center text-gradient'>I'm a Full-Stack Developer & AI Enthusiast</h1>
           <p className='max-lg:text-center max-lg:mx-4 text-gray-300 leading-relaxed text-lg mb-6'>
-            I'm a third-year CS student and a passionate full-stack developer with a keen interest in AI and data science.
+            I'm a fourth-year CS student and a passionate full-stack developer with a keen interest in AI and data science.
             Driven by curiosity and a love for technology, I explore innovative solutions to complex problems,
             aiming to make a significant impact in the digital world.
           </p>
