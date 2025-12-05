@@ -102,7 +102,7 @@ export default function Footer() {
             />
           </Link>
           <Link
-            href='https://github.com/Abdousa23'
+            href='https://github.com/sahki-abderrahemane'
             className='group bg-gradient-to-r from-gray-800/50 to-gray-700/50 hover:from-purple-600/20 hover:to-purple-700/20 p-3 rounded-full transition-all duration-300 hover:transform hover:scale-110 border border-gray-700/50 hover:border-purple-600/50'
           >
             <Image
