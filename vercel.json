@@ -1,0 +1,9 @@
+{
+    "redirects": [
+        {
+            "source": "/(.*)",
+            "destination": "https://abdou-sahki-portfolio.vercel.app/$1",
+            "permanent": true
+        }
+    ]
+}
